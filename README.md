@@ -7,6 +7,7 @@ Question = input('Question:  ')
 
 random = random.randint(1, 9)
 
+
 if random == 1:
  answer = 'Yes - definitely'
 elif random == 2:
